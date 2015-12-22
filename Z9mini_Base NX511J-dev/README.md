@@ -18,7 +18,7 @@ Display | 1920 x 1080 pixels, 5.0"
 Rear Camera  | 16.0 MP, LED flash
 Front Camera | 8.0 MP
 
-![Nubia Z9 mini](http://m.weibo.cn/5647781583/3922989416220500?sourceType=sms&from=1056095010&wm=9848_0009 "Nubia Z9 mini")
+
 
 感谢msm8916-zte项目贡献者，@dianlujitao的共享代码，过程中给与帮助的各位@basten1899 @shouhu1993 @imwls 
 源码使用请注明。并建议广大第三方romer尽量不加或者少加推广。
